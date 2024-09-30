@@ -1,0 +1,4 @@
+.vc-renderHtml {
+    isolation: isolate;
+    overflow: hidden;
+}
